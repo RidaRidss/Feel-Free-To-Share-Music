@@ -12,6 +12,6 @@
 
 
 
-<a href="http://i.imgur.com/IsdmuXA.png"><img src="http://i.imgur.com/IsdmuXA.png" align="left" width="250"></a>
+<a href="http://i.imgur.com/IsdmuXA.png"><img src="http://i.imgur.com/IsdmuXA.png" align="right" width="250"></a>
 <a href="http://i.imgur.com/vb66dhc.png"><img src="http://i.imgur.com/vb66dhc.png" align="left" width="250"></a>
 
